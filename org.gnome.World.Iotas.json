@@ -34,8 +34,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/World/iotas.git",
-                    "tag": "0.2.7-updated-screenshots",
-                    "commit": "29ea8b1ef6e056ef07bd02ffd72b0a596f4ff7ad"
+                    "tag": "0.2.8",
+                    "commit": "fe87cf47066b72d0c6a0b08e407208055fa0cfc0"
                 }
             ]
         }
