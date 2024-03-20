@@ -1,7 +1,7 @@
 {
     "app-id": "org.gnome.World.Iotas",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "45",
+    "runtime-version": "46",
     "sdk": "org.gnome.Sdk",
     "command": "iotas",
     "finish-args": [
@@ -55,8 +55,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/World/iotas.git",
-                    "tag": "0.2.10",
-                    "commit": "58619c3739e0d95d641bab834308934aab4b8b45"
+                    "tag": "0.2.11",
+                    "commit": "5ba42c8deff7dc41fcaee0d4cd44b414fab7acb5"
                 }
             ]
         }
