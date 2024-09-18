@@ -1,0 +1,24 @@
+{
+    "name" : "katex",
+    "buildsystem": "simple",
+    "build-options": {
+        "env": {
+            "DEST": "/app/share/iotas/media/"
+        }
+    },
+    "build-commands": [
+        "mkdir -p ${DEST}/js/",
+        "cp katex.min.js ${DEST}/js/",
+        "mkdir -p ${DEST}/css/web/",
+        "cp katex.min.css ${DEST}/css/web/",
+        "mkdir -p ${DEST}/css/web/fonts/",
+        "cp fonts/*.woff2 ${DEST}/css/web/fonts/"
+    ],
+    "sources": [
+        {
+            "type": "archive",
+            "url": "https://github.com/KaTeX/KaTeX/releases/download/v0.16.11/katex.tar.gz",
+            "sha256": "b968d389d7b9455e191605e4984c52faf3123213271880b02abc45e6ad4bbf43"
+        }
+    ]
+}
