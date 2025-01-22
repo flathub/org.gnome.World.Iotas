@@ -17,8 +17,8 @@
     "sources": [
         {
             "type": "archive",
-            "url": "https://github.com/KaTeX/KaTeX/releases/download/v0.16.11/katex.tar.gz",
-            "sha256": "b968d389d7b9455e191605e4984c52faf3123213271880b02abc45e6ad4bbf43"
+            "url": "https://github.com/KaTeX/KaTeX/releases/download/v0.16.21/katex.tar.gz",
+            "sha256": "f4847baffac99915b0ce2fff4bca25c28b7a17c174f5ebed36b71722115d1e40"
         }
     ]
 }
