@@ -17,13 +17,13 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/54/4c/a741dddab6ad96f257d90cb4d23067ffadac526c9cab3a99ca6ce3c05477/pyenchant-3.2.2-py3-none-any.whl",
-                    "sha256": "5facc821ece957208a81423af7d6ec7810dad29697cb0d77aae81e4e11c8e5a6"
+                    "url": "https://files.pythonhosted.org/packages/38/b0/35926bad6885fb7bc24aa7e1b45e6d86540c6c57ee4abc4fed1ef58d4ec0/pyenchant-3.3.0-py3-none-any.whl",
+                    "sha256": "3da00b1d01314d85aac733bb997415d7a3e875666dc81735ddcf320aa36b7a70"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/14/4a/69211cbd13b48f00f2e4bdeb6f2c3867854987e2727b1853b7d1b624d6e0/pygobject-3.54.0.tar.gz",
-                    "sha256": "4652a7cc7ff950a5099d56ac61a78c144629c20f8855a1306933b46b10f3b417"
+                    "url": "https://files.pythonhosted.org/packages/cf/71/90c0650485f40a684f54f09fd31aa03158af7f72129fd2089b67b4daa6d0/pygobject-3.54.3.tar.gz",
+                    "sha256": "a8da09134a0f7d56491cf2412145e35aa74e91d760e8f337096a1cda0b92bae7"
                 },
                 {
                     "type": "file",
