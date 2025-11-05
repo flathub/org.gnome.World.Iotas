@@ -9,8 +9,7 @@
         "--share=ipc",
         "--socket=fallback-x11",
         "--share=network",
-        "--socket=wayland",
-        "--talk-name=org.freedesktop.secrets"
+        "--socket=wayland"
     ],
     "cleanup" : [
         "*.a",
@@ -36,14 +35,14 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/jgm/pandoc/releases/download/3.8.1/pandoc-3.8.1-linux-amd64.tar.gz",
-                    "sha256": "2d9086a2d01e7887797e0cc4f07a8fa6008b34f89612dd9214192c0008ab58ab",
+                    "url": "https://github.com/jgm/pandoc/releases/download/3.8.2.1/pandoc-3.8.2.1-linux-amd64.tar.gz",
+                    "sha256": "b362815e21d8ad3629c124aa92baf54558da086ad72374b4f6fdd97b9f3275b0",
                     "only-arches": ["x86_64"]
                 },
                 {
                     "type": "archive",
-                    "url": "https://github.com/jgm/pandoc/releases/download/3.8.1/pandoc-3.8.1-linux-arm64.tar.gz",
-                    "sha256": "b333dd83017cd0ca3748146c051034fff4eb0b05677e47f1aea36aa5240fd3b5",
+                    "url": "https://github.com/jgm/pandoc/releases/download/3.8.2.1/pandoc-3.8.2.1-linux-arm64.tar.gz",
+                    "sha256": "852e898c2490fa840ae75a8b6af8a6c9d6d63b77ef170c32ec3a17958464d929",
                     "only-arches": ["aarch64"]
                 }
             ]
@@ -56,8 +55,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/World/iotas.git",
-                    "tag": "0.12.1",
-                    "commit": "fdd88d6f077a2da6e33c81b56dbe3967224917f4"
+                    "tag": "0.12.2",
+                    "commit": "c427a765a0569545fede9f5155609097e2e3f89a"
                 }
             ]
         }
