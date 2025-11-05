@@ -55,8 +55,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/World/iotas.git",
-                    "tag": "0.12.2",
-                    "commit": "c427a765a0569545fede9f5155609097e2e3f89a"
+                    "tag": "0.12.3",
+                    "commit": "a8da28f0a2ce4e2a3058b4a4da9f023e557e2bc4"
                 }
             ]
         }
