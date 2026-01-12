@@ -35,14 +35,14 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/jgm/pandoc/releases/download/3.8.2.1/pandoc-3.8.2.1-linux-amd64.tar.gz",
-                    "sha256": "b362815e21d8ad3629c124aa92baf54558da086ad72374b4f6fdd97b9f3275b0",
+                    "url": "https://github.com/jgm/pandoc/releases/download/3.8.3/pandoc-3.8.3-linux-amd64.tar.gz",
+                    "sha256": "c224fab89f827d3623380ecb7c1078c163c769c849a14ac27e8d3bfbb914c9b4",
                     "only-arches": ["x86_64"]
                 },
                 {
                     "type": "archive",
-                    "url": "https://github.com/jgm/pandoc/releases/download/3.8.2.1/pandoc-3.8.2.1-linux-arm64.tar.gz",
-                    "sha256": "852e898c2490fa840ae75a8b6af8a6c9d6d63b77ef170c32ec3a17958464d929",
+                    "url": "https://github.com/jgm/pandoc/releases/download/3.8.3/pandoc-3.8.3-linux-arm64.tar.gz",
+                    "sha256": "166a5a37387eb10bd4c4f242a8109beef755ac1e8d4eb039c6b5ebd1d918d8d7",
                     "only-arches": ["aarch64"]
                 }
             ]
@@ -55,8 +55,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.gnome.org/World/iotas.git",
-                    "tag": "0.12.5",
-                    "commit": "6c03763339e45883275e2cb6b69b60fc6a59be2d"
+                    "tag": "0.12.6",
+                    "commit": "3afac3a7eb37ea1097f823290070743c8c90483b"
                 }
             ]
         }
