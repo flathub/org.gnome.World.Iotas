@@ -11,18 +11,6 @@
         "--share=network",
         "--socket=wayland"
     ],
-    "cleanup" : [
-        "*.a",
-        "*.la",
-        "/include",
-        "/lib/cmake",
-        "/lib/pkgconfig",
-        "/man",
-        "/share/aclocal",
-        "/share/gtk-doc",
-        "/share/man",
-        "/share/pkgconfig"
-    ],
     "modules": [
         "python3-requirements.json",
         "katex.json",
